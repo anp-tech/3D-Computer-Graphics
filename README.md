@@ -28,11 +28,13 @@ https://user-images.githubusercontent.com/49329136/179473613-e08fa9ac-9d23-4c55-
 
 # Starfish and Animated Leaf
 
-A stationary starfish and an animated leaf by using 3D Bézier curves.
+A stationary starfish and an animated leaf using 3D Bézier curves.
 
 https://user-images.githubusercontent.com/49329136/179431419-e6486488-1742-4b09-be58-c196b566c936.mov
 
 # Two Animated Patterns
+
+Using OpenGL vertex and fragment shaders.
 
 https://user-images.githubusercontent.com/49329136/179430193-eb46db66-9198-4d5a-8d23-819c12358f97.mov
 
